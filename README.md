@@ -4,7 +4,7 @@ It's become a ritual for every programmer to build at least one to-do applicatio
 
 
 ## 🌍 About
-It is a To-Do Application where you can organise all your tasks and to-dos in one place .
+It is a To-Do Application where you can organise all your tasks in one place .
 It is a task management tool which can suit everyone's lifestyle .Whether you are a
 dedicated student or a busy professional you can find this program valuable thanks to its simple and straight-forward appearance and flow.
 
@@ -13,8 +13,9 @@ I used bash scripting for this program . Since the intention was to build a user
 
 
 ## ✅ Features
-The flow of the Program was designed with the intention  to help people with overwhelming tasks and schedules to take control back and be more organised.
+The flow of the Program was designed with the intention  to help people with overwhelming tasks to take control back and be more organised.
 That is why it is intended to be simple for easy and quick usage . 
+These are the features in Task Manager :
 - Add Task which includes setting the name , any notes or description , the date and the specific time
 - View all your tasks in one place . You get an all-in overview of your schedule and tasks
 - You get to choose which task to work on first in the order that suits your need
