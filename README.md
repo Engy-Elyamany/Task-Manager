@@ -1,6 +1,6 @@
  # 📝 Task Manager
 It's become a ritual for every programmer to build at least one to-do application in their career.This is my humble contribution to the tradition 🚀
-.However, i wanted to do something different . this is where i thought i would use bash scripting . It also comes with extra GUI for more fun and a user-friendly appearance 🍟 
+.However, i wanted to do something different . this is where i thought i would use bash scripting . It also has a simple GUI for more fun and a user-friendly experience 
 
 
 ## 🌍 About
